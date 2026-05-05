@@ -1,0 +1,13 @@
+/DATA/wqs/yolov8/ultralytics/testnormal/appearance/CSPM081_1.png
+/DATA/wqs/yolov8/ultralytics/testnormal/appearance/CSPM076_1.png
+/DATA/wqs/yolov8/ultralytics/testnormal/appearance/CSPM086_1.png
+/DATA/wqs/yolov8/ultralytics/testnormal/appearance/CSPM121_1.png
+/DATA/wqs/yolov8/ultralytics/testnormal/appearance/CSPM051_1.png
+/DATA/wqs/yolov8/ultralytics/testnormal/appearance/CSPM071_1.png
+/DATA/wqs/yolov8/ultralytics/testnormal/appearance/CSPM091_1.png
+/DATA/wqs/yolov8/ultralytics/testnormal/appearance/CSPM036_1.png
+/DATA/wqs/yolov8/ultralytics/testnormal/appearance/CSPM126_1.png
+/DATA/wqs/yolov8/ultralytics/testnormal/appearance/CSPM101_1.png
+/DATA/wqs/yolov8/ultralytics/testnormal/appearance/CSPM116_1.png
+/DATA/wqs/yolov8/ultralytics/testnormal/appearance/CSPM046_1.png
+/DATA/wqs/yolov8/ultralytics/testnormal/appearance/CSPM131_1.png
